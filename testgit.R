@@ -6,6 +6,7 @@ source("detectfunc code.r")
 #chumu numu pumu kumila
 setwd("C:/Users/HP/Dropbox/Blender_processing/25_5_18") #set working directory
 #data
+#futushi
 
 det.dat <-read.csv("CTR_firstdetection_data.csv")
 sp <-"Chital"
