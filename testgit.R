@@ -3,7 +3,7 @@ setwd("C:/Users/HP/Dropbox/Blender_processing/25_5_18")
 source("traprate_code.r")
 source("speedCode Apr17.r")
 source("detectfunc code.r")
-
+#chumu numu pumu kumila
 setwd("C:/Users/HP/Dropbox/Blender_processing/25_5_18") #set working directory
 #data
 
