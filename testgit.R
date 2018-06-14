@@ -5,6 +5,7 @@ source("speedCode Apr17.r")
 source("detectfunc code.r")
 
 setwd("C:/Users/HP/Dropbox/Blender_processing/25_5_18") #set working directory
+#data
 
 det.dat <-read.csv("CTR_firstdetection_data.csv")
 sp <-"Chital"
